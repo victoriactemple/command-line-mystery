@@ -1,42 +1,30 @@
-The Command Line Murders
-========================
+# Command Line Mystery
 
-	.OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
-	OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
-	OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
-	OOOOO'' aaa@@@@@@@@@@@@@@@@@@@@"""                   """""""""@@aaaa `OOOO
-	OOOOO,""""@@@@@@@@@@@@@@""""                                     a@"" OOOA
-	OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
-	OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
-	OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
-	OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
-	OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
-	OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
-	OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
-	OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
-	OOOOOOOOOOOOOOOOOOO@                               aaaaaaa       @@',OOOOn
-	OOOOOOOOOOOOOOOOOOO@                        aaa@@@@@@@@""        @@ OOOOOi
-	OOOOOOOOOO~~ aaaaaa"a                 aaa@@@@@@@@@@""            @@ OOOOOx
-	OOOOOO aaaa@"""""""" ""            @@@@@@@@@@@@""               @@@|`OOOO'
-	OOOOOOOo`@@a                  aa@@  @@@@@@@""         a@        @@@@ OOOO9
-	OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
-	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
+## Overview
 
+* The goal of this assignment is to solve the mystery by using ONLY the Terminal to navigate files.
+* **Don't use a text editor** to view any files except `readme.md` and `cheatsheet.md`.
 
-There's been a murder in Terminal City, and TCPD needs your help.
+## Getting Started
 
-To figure out whodunit, you need access to a command line.
+* Fork this repo, and clone it into your `develop` folder on your local machine.
 
-Once you're ready, clone this repo.
+* Change directories into `command-line-mystery`, and start by reading the `instructions` file:
 
-Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
+	```bash
+	$ cd command-line-mystery
+	$ cat instructions
+	```
 
-One way you can do this is with the command:
+* Before diving into the mystery, create a new file called `solution.md`:
 
-	cat instructions
+	```bash
+	$ touch solution.md
+	```
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+* Keep a list of the Terminal commands you type to solve the mystery in `solution.md`.
 
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+## Submission
+
+* As you're working, commit your changes, and push them to GitHub.
+* Once you've finished the assignment, make a pull request from your fork back to the original repo.
