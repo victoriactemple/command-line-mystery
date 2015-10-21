@@ -3,7 +3,6 @@
 ## Overview
 
 * The goal of this assignment is to solve the mystery by using ONLY the Terminal to navigate files.
-
 * **Don't use a text editor** to view any files except `readme.md` and `cheatsheet.md`.
 
 ## Getting Started
