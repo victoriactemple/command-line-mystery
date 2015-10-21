@@ -7,32 +7,32 @@
 
 ## Getting Started
 
-* Fork this repo, and clone it into your `develop` folder on your local machine.
+1. Fork this repo, and clone it into your `develop` folder on your local machine.
 
-* Change directories into `command-line-mystery`:
+2. Change directories into `command-line-mystery`:
 
 	```bash
 	$ cd command-line-mystery
 	```
 
-* Inside `command-line-mystery`, create a new file called `solution.md`:
+3. Inside `command-line-mystery`, create a new file called `solution.md`:
 
 	```bash
 	$ touch solution.md
 	```
 
-* When you're ready to dive into detective work, start by reading the `instructions` file:
+4. When you're ready to dive into detective work, start by reading the `instructions` file:
 
 	```bash
 	$ cat instructions
 	```
 
-* As you work to solve the mystery, **keep track of all the Terminal commands you type** by recording them in `solution.md` (you're allowed to use your text editor for this part). When you figure out who committed the crime, add the culprit's name to `solution.md` as well.
+5. As you work to solve the mystery, **keep track of all the Terminal commands you type** by recording them in `solution.md` (you're allowed to use your text editor for this part). When you figure out who committed the crime, add the culprit's name to `solution.md` as well.
 
 ## Submission
 
 * As you make changes to `solution.md`, frequently commit and push to GitHub.
-* Once you've finished the assignment (and pushed your work to GitHub), make a pull request from your fork to the original repo.
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo.
 
 ## Resources
 
