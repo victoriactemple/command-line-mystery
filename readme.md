@@ -1,8 +1,6 @@
 # Command Line Mystery
 
-**Objective:** Solve the mystery by using ONLY the Terminal to navigate files.
-
-**Don't use a text editor** to view any files except `readme.md` and `cheatsheet.md`.
+**Objective:** Solve the mystery by using ONLY the Terminal to navigate files. **Don't use a text editor** to view any files except `readme.md` and `cheatsheet.md`.
 
 ## Getting Started
 
