@@ -37,4 +37,4 @@
 
 ## Resources
 
-* <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a> (this will come in handy for formatting your answers in `solution.md`)
+* <a href="https://help.github.com/articles/markdown-basics">Markdown Basics</a> (this will come in handy for formatting your answers in `solution.md`)
