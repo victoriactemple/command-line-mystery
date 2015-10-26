@@ -36,4 +36,28 @@ less interviews/interview-699607
 less vehicles
 # Search in less for vehicles starting with L337 and ending in 9
 # in less /L337..9
+# Check which are over 6'
+# Katie Park
+# Mike Bostock
+# John Keefe
+# Erika Owens
+# Matt Waite
+# Brian Boyer
+# Al Shaw
+# Miranda Mulligan
+# Joe Germuska
+# Jeremy Bowers
+# Jacqui Maher
+
+# Check which is male/female and get their names
+egrep '((Katie Park)|(Mike Bostock)|(John Keefe)|(Erika Owens)|(Matt Waite)|(Brian Boyer)|(Al Shaw)|(Miranda Mulligan)|(Joe Germuska)|(Jeremy Bowers)|(Jacqui Maher))' ./people | grep '\tM\t' | cut -f1
+
+# Limit down by membership
+egrep -R '((Joe Germuska)|(Brian Boyer)|(Mike Bostock)|(Jeremy Bowers)|(John Keefe)|(Al Shaw)|(Matt Waite))' ./memberships
+
+# (Jeremy Bowers)|(Brian Boyer)|(Mike Bostock)|(Matt Waite)
+# Not MB, wrong car color
+# Not MW, wrong car manufacturer
+# Not BB, wrong car manufacturer
+# JB, it is JB
 ```
