@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1. Fork this repo, and clone it into your `develop` folder on your local machine.
+1. Fork this repo, and clone it into your `dev` folder on your local machine.
 
 2. Change directories into `command-line-mystery`:
 
