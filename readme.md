@@ -29,7 +29,7 @@
 ## Submission
 
 * As you make changes to `solution.md`, frequently commit and push to GitHub.
-* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo. You can find instructions for this [here](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md).
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo. You can find instructions for this [here](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md).
 
 ## Resources
 
